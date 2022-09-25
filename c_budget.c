@@ -1,6 +1,6 @@
 /*
  *
- * Name:       c_budget test
+ * Name:       c_budget
  *
  * Purpose:    Keep track of a simple budget in a text file.
  *
