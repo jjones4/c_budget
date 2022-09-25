@@ -13,7 +13,7 @@ To compile and link c_budget's source files, I am using GCC and Make. You can co
 
 Planned improvements to c_budget include using linked lists instead of character arrays to handle the data.
 
-I am also debugging some problems I have running the app on Windows. I compile c_budget on Windows using the followign command:
+I am also debugging some problems when the app is run in Windows. I compile c_budget on Windows using the followign command:
 
 - cl -W4 c_budget c_budget.c c_budget_crud_operations.c c_budget_menus.c c_budget_read_input.c c_budget_validation.c -link -out:c_budget.exe
 
