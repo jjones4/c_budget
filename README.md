@@ -11,7 +11,14 @@ To compile and link c_budget's source files, I am using GCC and Make. You can co
 3. Use the makefile included with c_budget to compile and link the source files.
 4. If you have installed Make, run the following command: make c_budget
 
-Planned improvements to c_budget include using linked lists instead of character arrays to handle the data.
+I plan to use various data structures to improve c_budget. I am rebuilding c_budget in the following order (please see my repository for various versions of c_budget):
+
+1. c_budget (original)
+2. c_budget_2d_array
+3. c_budget_array_of_structures
+4. c_budget_ragged_array
+5. c_budget_linked_list
+6. c_budget_ordered_list
 
 I am also debugging some problems when the app is run in Windows. I compile c_budget on Windows using the followign command:
 
