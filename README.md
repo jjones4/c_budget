@@ -16,8 +16,9 @@ I plan to use various data structures to improve c_budget. I am rebuilding c_bud
 1. c_budget (original)
 2. c_budget_2d_array
 3. c_budget_array_of_structures
-4. c_budget_linked_list
-5. c_budget_ordered_list
+4. c_budget_dynamic_strings
+5. c_budget_linked_list
+6. c_budget_ordered_list
 
 There are some problems when the app is run in Windows. These problems have been resolved in subsequent versions of the app (see above). The problem is that the update and delete operations do not work on Windows. It has something to do with writing the new information to the temp file and removing the original budget.txt file. The program correctly writes the updated information to the temp_budget.txt file but can't remove the original file and rename the temporary file for some reason on Windows.
 
