@@ -1,0 +1,128 @@
+01/01/2023|-1000.00|Rent
+01/02/2023|-350.00|Groceries
+01/15/2023|1200.00|Paycheck
+01/15/2023|-100.00|Electric bill
+01/15/2023|-200.00|Car insurance
+01/15/2023|-220.00|Health insurance
+01/15/2023|-60.00|Internet
+01/15/2023|-85.00|Cell phone bill
+01/28/2023|1200.00|Paycheck
+02/01/2023|-1000.00|Rent
+02/02/2023|-350.00|Groceries
+02/15/2023|1200.00|Paycheck
+02/15/2023|-100.00|Electric bill
+02/15/2023|-200.00|Car insurance
+02/15/2023|-220.00|Health insurance
+02/15/2023|-60.00|Internet
+02/15/2023|-85.00|Cell phone bill
+02/28/2023|1200.00|Paycheck
+03/01/2023|-1000.00|Rent
+03/02/2023|-350.00|Groceries
+03/15/2023|1200.00|Paycheck
+03/15/2023|-100.00|Electric bill
+03/15/2023|-200.00|Car insurance
+03/15/2023|-220.00|Health insurance
+03/15/2023|-60.00|Internet
+03/15/2023|-85.00|Cell phone bill
+03/28/2023|1200.00|Paycheck
+04/01/2023|-1000.00|Rent
+04/02/2023|-350.00|Groceries
+04/15/2023|1200.00|Paycheck
+04/15/2023|-100.00|Electric bill
+04/15/2023|-200.00|Car insurance
+04/15/2023|-220.00|Health insurance
+04/15/2023|-60.00|Internet
+04/15/2023|-85.00|Cell phone bill
+04/28/2023|1200.00|Paycheck
+05/01/2023|-1000.00|Rent
+05/02/2023|-350.00|Groceries
+05/15/2023|1200.00|Paycheck
+05/15/2023|-100.00|Electric bill
+05/15/2023|-200.00|Car insurance
+05/15/2023|-220.00|Health insurance
+05/15/2023|-60.00|Internet
+05/15/2023|-85.00|Cell phone bill
+05/28/2023|1200.00|Paycheck
+06/01/2023|-1000.00|Rent
+06/02/2023|-350.00|Groceries
+06/15/2023|1200.00|Paycheck
+06/15/2023|-100.00|Electric bill
+06/15/2023|-200.00|Car insurance
+06/15/2023|-220.00|Health insurance
+06/15/2023|-60.00|Internet
+06/15/2023|-85.00|Cell phone bill
+06/28/2023|1200.00|Paycheck
+07/01/2023|-1000.00|Rent
+07/02/2023|-350.00|Groceries
+07/15/2023|1200.00|Paycheck
+07/15/2023|-100.00|Electric bill
+07/15/2023|-200.00|Car insurance
+07/15/2023|-220.00|Health insurance
+07/15/2023|-60.00|Internet
+07/15/2023|-85.00|Cell phone bill
+07/28/2023|1200.00|Paycheck
+08/01/2023|-1000.00|Rent
+08/02/2023|-350.00|Groceries
+08/15/2023|1200.00|Paycheck
+08/15/2023|-100.00|Electric bill
+08/15/2023|-200.00|Car insurance
+08/15/2023|-220.00|Health insurance
+08/15/2023|-60.00|Internet
+08/15/2023|-85.00|Cell phone bill
+08/28/2023|1200.00|Paycheck
+09/01/2023|-1000.00|Rent
+09/02/2023|-350.00|Groceries
+09/15/2023|1200.00|Paycheck
+09/15/2023|-100.00|Electric bill
+09/15/2023|-200.00|Car insurance
+09/15/2023|-220.00|Health insurance
+09/15/2023|-60.00|Internet
+09/15/2023|-85.00|Cell phone bill
+09/28/2023|1200.00|Paycheck
+10/01/2023|-1000.00|Rent
+10/02/2023|-350.00|Groceries
+10/15/2023|1200.00|Paycheck
+10/15/2023|-100.00|Electric bill
+10/15/2023|-200.00|Car insurance
+10/15/2023|-220.00|Health insurance
+10/15/2023|-60.00|Internet
+10/15/2023|-85.00|Cell phone bill
+10/28/2023|1200.00|Paycheck
+11/01/2023|-1000.00|Rent
+11/02/2023|-350.00|Groceries
+11/15/2023|1200.00|Paycheck
+11/15/2023|-100.00|Electric bill
+11/15/2023|-200.00|Car insurance
+11/15/2023|-220.00|Health insurance
+11/15/2023|-60.00|Internet
+11/15/2023|-85.00|Cell phone bill
+11/28/2023|1200.00|Paycheck
+12/01/2023|-1000.00|Rent
+12/02/2023|-350.00|Groceries
+12/15/2023|1200.00|Paycheck
+12/15/2023|-100.00|Electric bill
+12/15/2023|-200.00|Car insurance
+12/15/2023|-220.00|Health insurance
+12/15/2023|-60.00|Internet
+12/15/2023|-85.00|Cell phone bill
+12/28/2023|1200.00|Paycheck
+12/31/2023|3000.00|Holiday bonus
+12/31/2023|-2500.00|Holiday shopping
+01/01/2024|-1000.00|Rent
+01/02/2024|-350.00|Groceries
+01/15/2024|1200.00|Paycheck
+01/15/2024|-100.00|Electric bill
+01/15/2024|-200.00|Car insurance
+01/15/2024|-220.00|Health insurance
+01/15/2024|-60.00|Internet
+01/15/2024|-85.00|Cell phone bill
+01/28/2024|1200.00|Paycheck
+02/01/2024|-1000.00|Rent
+02/02/2024|-350.00|Groceries
+02/15/2024|1200.00|Paycheck
+02/15/2024|-100.00|Electric bill
+02/15/2024|-200.00|Car insurance
+02/15/2024|-220.00|Health insurance
+02/15/2024|-60.00|Internet
+02/15/2024|-85.00|Cell phone bill
+02/28/2024|1200.00|Paycheck
