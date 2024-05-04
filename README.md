@@ -1,9 +1,9 @@
 # c_budget
 c_budget is a command line app built to be compiled and run on a Windows machine.
 
-c_budget is designed to take data from a text file as input. The output of c_budget is simply a few tables displaying some useful budget figures.
+c_budget is designed to take data from a text file as input. The output of c_budget is simply a few tables displaying some useful budget summary figures.
 
-Importantly, the data file must contain data formatted precisely like the data is formatted in the budget_data_sample.txt file, included in this repository (the data does not have to be sorted by date). Also included in this repository is a picture of the output of a successful session with the c_budget program.
+Importantly, the input file must contain data formatted precisely like the data is formatted in the budget_data_sample.txt file included in this repository (the data does not have to be sorted by date). Also included in this repository is a picture of the output of a successful session with the c_budget program.
 
 To use c_budget, complete the following steps:
 1. Download c_budget's source files into your chosen directory.
