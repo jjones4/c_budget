@@ -6,3 +6,8 @@ To use c_budget, first cd to the directory containing c_budget's executable file
 - cd C:\Users\User\c_budget
 
 Next, run c_budget in one of two ways.
+
+1. Type c_budget
+2. Type c_budget my_budget_data.txt
+
+
