@@ -7,9 +7,10 @@ Importantly, the data file must contain data formatted precisely like the data i
 
 To use c_budget, complete the following steps:
 1. Download c_budget's source files into your chosen directory.
-2. cd to the directory containing c_budget's program files. For example,
+2. Ensure you have Visual Studio installed or the Build Tools for Visual Studio and the optional Desktop development with C++ workload.
+3. Open the Developer Command Prompt for VS 2022.
+4. cd to the directory containing c_budget's program files. For example,
    -  cd C:\Users\User\c_budget.
-4. Ensure you have Visual Studio installed or the Build Tools for Visual Studio and the optional Desktop development with C++ workload.
 5. Compile c_budget by typing the following:
    -  cl -W4 c_budget.c program_init.c validate_budget_line.c get_data.c budget_calculations.c print_budget_figures.c -link -out:c_budget.exe
 7. Run c_budget by typing one of the following commands:
