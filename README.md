@@ -21,10 +21,9 @@ To build and use c_budget on Linux, complete the following steps:
 1. Download c_budget's source files into your chosen directory.
 2. Ensure you have gcc installed.
 3. cd to the directory containing c_budget's program files. For example,
-   -   cd C:\Users\User\c_budget
-4. daf;kld
-5. Compile c_budget by typing the following:
+   -   cd /home/user/c_budget
+4. Compile c_budget by typing the following:
    -   gcc -g -Wall -Wextra -O -W -pedantic -ansi -std=c89 c_budget.c program_init.c validate_budget_line.c get_data.c print_budget_figures.c budget_calculations.c -o c_budget
-6. Run c_budget by typing one of the following commands (note, if you do not include a file name after typing the program name into the command prompt, the default data file will be used, if possible. The default data file name is defined in a macro in the program code):
+5. Run c_budget by typing one of the following commands (note, if you do not include a file name after typing the program name into the command prompt, the default data file will be used, if possible. The default data file name is defined in a macro in the program code):
    -   ./c_budget
    -   ./c_budget my_budget_data.txt
