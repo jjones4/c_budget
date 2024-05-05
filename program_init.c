@@ -3,8 +3,7 @@
  *
  * Purpose:    Perform initial checks and initialization to get required data
  *             from data file and set up the program's data structure for the
- *             budget. The data structure is a linked list that will be sorted
- *             using qsort.
+ *             budget.
  *
  * Author:     jjones4
  *
